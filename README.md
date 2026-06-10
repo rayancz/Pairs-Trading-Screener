@@ -60,6 +60,6 @@ This project was created for educational and portfolio purposes. It demonstrates
 
 The figure below shows the z-score of the spread for the strongest cointegrated stock pair identified by the script.
 
-
+<br>
 
 ![Z-Score Signal Example](images/zscore_signal_example.png)
