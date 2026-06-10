@@ -51,10 +51,6 @@ pip install numpy statsmodels yfinance matplotlib seaborn
 python3 Pairs_Trading.py
 ```
 
-## Disclaimer
-
-This project was created for educational and portfolio purposes. It demonstrates the use of Python, APIs, statistical analysis, and data visualization to identify potential pairs trading opportunities. It is not intended to be used as a complete trading strategy or as investment advice.
-
 
 ## Example Output
 
@@ -63,3 +59,8 @@ The figure below shows the z-score of the spread for the strongest cointegrated 
 <br>
 
 ![Z-Score Signal Example](images/zscore_signal_example.png)
+
+
+## Disclaimer
+
+This project was created for educational and portfolio purposes. It demonstrates the use of Python, APIs, statistical analysis, and data visualization to identify potential pairs trading opportunities. It is not intended to be used as a complete trading strategy or as investment advice.
