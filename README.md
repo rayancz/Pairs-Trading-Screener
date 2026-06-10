@@ -6,7 +6,7 @@ A Python project that uses historical stock price data from Yahoo Finance to ide
 
 Pairs trading is a strategy that looks for two stocks that historically move together. If the relationship between the stocks temporarily deviates from its historical norm, a trader may bet that the relationship will eventually return to normal.
 
-Not all stocks are suitable for pairs trading. Stocks from the same industry or sector often share similar economic drivers and are therefore more likely to exhibit a stable long-term relationship. In this project, Swedish real estate companies are used as examples because they are exposed to many of the same market factors, such as interest rates and property market conditions.
+Not all stocks are suitable for pairs trading. Stocks from the same industry or sector often share similar economic drivers and are therefore more likely to move together over time. In this project, Swedish real estate companies are used as examples because they are exposed to many of the same market factors, such as interest rates and property market conditions.
 
 This script:
 
@@ -54,3 +54,10 @@ python3 Pairs_Trading.py
 ## Disclaimer
 
 This project was created for educational and portfolio purposes. It demonstrates the use of Python, APIs, statistical analysis, and data visualization to identify potential pairs trading opportunities. It is not intended to be used as a complete trading strategy or as investment advice.
+
+
+## Example Output
+
+The figure below shows the z-score of the spread for the strongest cointegrated stock pair identified by the script.
+
+![Z-Score Signal Example](images/zscore_signal_example.png)
