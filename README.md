@@ -1,6 +1,6 @@
 # Pairs Trading Screener
 
-A Python project that uses historical stock price data from Yahoo Finance to identify potentially cointegrated stock pairs and generate basic pairs trading signals.
+A python project that uses historical stock price data from Yahoo Finance to identify potentially cointegrated stock pairs and generate basic pairs trading signals.
 
 ## What is pairs trading?
 
