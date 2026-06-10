@@ -2,7 +2,7 @@
 
 A python project that uses historical stock price data from Yahoo Finance to identify potentially cointegrated stock pairs and generate basic pairs trading signals.
 
-## What is pairs trading?
+## What is Pairs Trading?
 
 Pairs trading is a strategy that looks for two stocks that historically move together. If the relationship between the stocks temporarily deviates from its historical norm, a trader may bet that the relationship will eventually return to normal.
 
